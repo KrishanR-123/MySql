@@ -1,0 +1,7 @@
+insert into student values ("Navin Kumar",061,2,"CSE");
+select * from student;
+insert into student values ("Arjun Kethi",011,1,"Mechinal");
+insert into student values ("Yuvraj Sethi",098,3,"Mechinal");
+insert into student values ("Kartik Sharma",051,2,"ECE");
+insert into student values ("Kunal Verma",059,1,"CSE");
+select * from student;

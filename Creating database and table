@@ -1,0 +1,3 @@
+Create database collegedata;
+create table student;
+select * from student;
